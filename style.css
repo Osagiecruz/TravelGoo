@@ -1627,7 +1627,7 @@
     align-items: center;
 }
 .p8-content1 {
-    border: 1px solid green;
+    /* border: 1px solid green; */
     width: 12%;
     height: 80%;
     display: flex;
@@ -1711,7 +1711,7 @@
     justify-content: space-around;
 }
 .social-media {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 95%;
     height: 33%;
 }
