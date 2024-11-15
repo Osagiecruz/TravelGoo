@@ -8,12 +8,12 @@
     width: 100%;
     height: 100vh;
     /* border: 1px solid red; */
-    background-image: url("/images/background.png");
+    background-image: url("images/background.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-.Parent::after {
+/* .Parent::after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -21,7 +21,7 @@
     width: 100%;
     height: 45%;
     background-image: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(72, 72, 72, 0) 31.25%, rgba(158, 158, 158, 0) 77.6%, #FFFFFF 85.42%);
-}
+} */
 .header {
     width: 100%;
     height: 80px;
@@ -192,7 +192,7 @@
 .parent-3 {
     width: 100%;
     height: 70vh;
-    background-image: linear-gradient(rgba(0, 88, 83, 0.05), rgba(0, 88, 83, 0.05)), url(/images/world_map_PNG28\ 1.png);
+    background-image: linear-gradient(rgba(0, 88, 83, 0.05), rgba(0, 88, 83, 0.05)), url(images/world_map_PNG28\ 1.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -362,7 +362,7 @@
     /* border: 1px solid pink; */
     width: 40%;
     height: 600px;
-    background-image: url(/images/world_map_PNG28\ 2.png);
+    background-image: url(images/world_map_PNG28\ 2.png);
 }
 .places {
     /* border: 1px solid black; */
@@ -387,7 +387,7 @@
     /* border: 1px solid red; */
     width: 233px;
     height: 170px;
-    background-image: url(/images/ocean-boat.jpeg);
+    background-image: url(images/ocean-boat.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -451,7 +451,7 @@
     /* border: 1px solid red; */
     width: 233px;
     height: 170px;
-    background-image: url(/images/mosque-flower.jpeg);
+    background-image: url(images/mosque-flower.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -513,7 +513,7 @@
     /* border: 1px solid red; */
     width: 233px;
     height: 170px;
-    background-image: url(/images/mountain.jpeg);
+    background-image: url(images/mountain.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -723,7 +723,7 @@
     /* border: 1px solid gold; */
     width: 100%;
     height: 220px;
-    background-image: url(/images/indonesia.jpeg);
+    background-image: url(images/indonesia.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -783,7 +783,7 @@
     /* border: 1px solid paleturquoise; */
     width: 10%;
     height: 80%;
-    background-image: url(/images/ep_location.png);
+    background-image: url(images/ep_location.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain; 
@@ -820,7 +820,7 @@
     /* border: 1px solid gold; */
     width: 100%;
     height: 220px;
-    background-image: url(/images/japan.jpeg);
+    background-image: url(images/japan.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -880,7 +880,7 @@
     /* border: 1px solid paleturquoise; */
     width: 10%;
     height: 80%;
-    background-image: url(/images/ep_location.png);
+    background-image: url(images/ep_location.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain; 
@@ -917,7 +917,7 @@
     /* border: 1px solid gold; */
     width: 100%;
     height: 220px;
-    background-image: url(/images/Mountain-1.jpeg);
+    background-image: url(images/Mountain-1.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -976,7 +976,7 @@
     /* border: 1px solid paleturquoise; */
     width: 10%;
     height: 80%;
-    background-image: url(/images/ep_location.png);
+    background-image: url(images/ep_location.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain; 
@@ -1069,7 +1069,7 @@
     height: 60px;
     margin: 0 auto;
     padding-top: 20px;
-    background-image: url(/images/selection\ 1.png);
+    background-image: url(images/selection\ 1.png);
     background-position: center;
     background-repeat: no-repeat;
     /* padding-bottom: auto; */
@@ -1109,7 +1109,7 @@
     height: 60px;
     margin: 0 auto;
     padding-top: 20px;
-    background-image: url(/images/water-sport\ 1.png);
+    background-image: url(images/water-sport\ 1.png);
     background-position: center;
     background-repeat: no-repeat;
     /* padding-bottom: auto; */
@@ -1149,7 +1149,7 @@
     height: 60px;
     margin: 0 auto;
     padding-top: 20px;
-    background-image: url(/images/taxi\ 1.png);
+    background-image: url(images/taxi\ 1.png);
     background-position: center;
     background-repeat: no-repeat;
     /* padding-bottom: auto; */
@@ -1195,7 +1195,7 @@
     border-radius: 24px;
     margin: 0 auto;
     box-sizing: border-box;
-    background-image: url(/images/girl.jpeg);
+    background-image: url(images/girl.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1254,7 +1254,7 @@
     height: 18px;
     margin: 0 auto;
     margin-top: 8px;
-    background-image: url(/images/leaf\ 1.png);
+    background-image: url(images/leaf\ 1.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1272,7 +1272,7 @@
     height: 18px;
     margin: 0 auto;
     margin-top: 8px;
-    background-image: url(/images/map\ 1.png);
+    background-image: url(images/map\ 1.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1290,7 +1290,7 @@
     height: 18px;
     margin: 0 auto;
     margin-top: 8px;
-    background-image: url(/images/send\ 2.png);
+    background-image: url(images/send\ 2.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1315,7 +1315,7 @@
     /* border: 1px solid red; */
     width: 20%;
     height: 31px;
-    background-image: url(/images/building\ 1.png);
+    background-image: url(images/building\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -1334,7 +1334,7 @@
     /* border: 1px solid blue; */
     width: 20%;
     height: 33px;
-    background-image: url(/images/heart\ \(6\)\ 1.png);
+    background-image: url(images/heart\ \(6\)\ 1.png);
     background-position: center;
     background-repeat: no-repeat;
     /* background-size: contain; */
@@ -1357,7 +1357,7 @@
     height: 65px;
     border-radius: 50%;
     margin-top: 15px;
-    background-image: url(/images/mosque.png);
+    background-image: url(images/mosque.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1410,7 +1410,7 @@
     /* border: 1px solid green; */
     width: 90%;
     height: 8px;
-    background-image: url(/images/Group\ 3.png);
+    background-image: url(images/Group\ 3.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -1447,7 +1447,7 @@
     /* margin-left: -6px; */
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
-    background-image: linear-gradient(rgba(236, 241, 240, 0.5), rgba(236, 241, 240, 0.5)), url(/images/right.png);
+    background-image: linear-gradient(rgba(236, 241, 240, 0.5), rgba(236, 241, 240, 0.5)), url(images/right.png);
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1457,7 +1457,7 @@
     width: 65%;
     height: 90%;
     border-radius: 20px;
-    background-image: url(/images/image\ 22.png);
+    background-image: url(images/image\ 22.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1472,7 +1472,7 @@
     border-radius: 50%;
     margin-top: 245px;
     margin-bottom: -50px;
-    background-image: url(/images/human.jpeg);
+    background-image: url(images/human.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1505,7 +1505,7 @@
     /* margin-right: -6px; */
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-    background-image: linear-gradient(rgba(236, 241, 240, 0.5), rgba(236, 241, 240, 0.5)), url(/images/right.png);
+    background-image: linear-gradient(rgba(236, 241, 240, 0.5), rgba(236, 241, 240, 0.5)), url(images/right.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1544,7 +1544,7 @@
     margin-top: 55px;
     border-radius: 50%;
     background-color: #fff;
-    background-image: url(/images/Group\ 77.png);
+    background-image: url(images/Group\ 77.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1583,7 +1583,7 @@
     width: 24px;
     height: 20px;
     margin-left: 10px;
-    background-image: url(/images/Group\ 46.png);
+    background-image: url(images/Group\ 46.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1638,7 +1638,7 @@
     /* border: 1px solid blue; */
     width: 97px;
     height: 60px;
-    background-image: url(/images/Travel\ Goo\ 2.png);
+    background-image: url(images/Travel\ Goo\ 2.png);
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 15px;
