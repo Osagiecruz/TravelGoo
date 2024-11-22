@@ -57,6 +57,9 @@
     display: flex;
     justify-content: space-around;
 }
+.profile-icon img {
+    display: none;
+}
 .parent-content {
     height: 40%;
     width: 50%;
