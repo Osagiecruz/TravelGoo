@@ -1815,7 +1815,8 @@
     }
     .parent-2 {
         width: 100%;
-        height: 100vh;
+        height: 150vh;
+        /* border: 1px solid blue; */
     }
     .service h3 {
         text-align: center;
@@ -1829,7 +1830,7 @@
     }
     .catalogue {
         width: 100%;
-        height: 80vh;
+        height: 100vh;
         /* border: 1px solid blue; */
         display: flex;
         flex-direction: column;
@@ -1847,7 +1848,7 @@
     }
     .parent-3 {
         width: 100%;
-        height: 120vh;
+        height: 150vh;
         background-image: linear-gradient(rgba(0, 88, 83, 0.05), rgba(0, 88, 83, 0.05)), url(images/world_map_PNG28\ 1.png);
         background-size: cover;
         background-position: center;
@@ -1878,7 +1879,7 @@
     }
     .catalogue-2 {
         width: 100%;
-        height: 90vh;
+        height: 120vh;
         /* border: 1px solid blue; */
         display: flex;
         flex-direction: column;
@@ -1903,7 +1904,7 @@
     }
     .parent-4 {
         width: 100%;
-        height: 130vh;
+        height: 150vh;
         margin-bottom: 50px;
         /* border: 1px solid blue;   */
     }
@@ -1914,7 +1915,7 @@
     }
     .twin-content {
         width: 100%;
-        height: 110vh;
+        height: 130vh;
         /* border: 1px solid yellow;  */
         justify-content: space-between;
         display: flex;
@@ -1931,7 +1932,7 @@
     .places {
         /* border: 1px solid black; */
         width: 100%;
-        height: 75vh;
+        height: 90vh;
         margin: 0 auto;
     }
     .place-1, .place-2, .place-3 {
@@ -1964,7 +1965,7 @@
     }
     .parent-5 {
         width: 100%;
-        height: 180vh;
+        height: 230vh;
         /* border: 1px solid purple; */
     }
     .best-packages {
@@ -1976,10 +1977,11 @@
     .nav-package {
         /* border: 1px solid black; */
         width: 100%;
-        height: 40vh;
+        height: 50vh;
         gap: 75px;
-        margin-top: 20px;
-        margin-bottom: 50px;
+        margin-top: 40px;
+        padding-top: 30px;
+        margin-bottom: 60px;
     }
     .nav-package1 {
         display: flex;
@@ -1987,7 +1989,7 @@
         width: 100%;
         gap: 20px;
         /* border: 1px solid brown; */
-        margin-left: -20%;
+        margin-left: -18%;
         /* border: 1px solid red; */
     }
     .nav-package2 {
@@ -1995,7 +1997,7 @@
         flex-direction: column;
         width: 100%;
         gap: 20px;
-        padding-left: 7px;
+        padding-left: 28px;
         /* border: 1px solid red; */
     }
     .hotdeals {
@@ -2017,11 +2019,11 @@
     .bookings {
         /* border: 1px solid violet; */
         width: 100%;
-        height: 85vh;
+        height: 120vh;
         display: flex;
         flex-direction: column;
-        gap: 25px;
-        padding-bottom: 70px;
+        gap: 60px;
+        padding-bottom: 80px;
     }
     .indonesia, .japan, .mountain {
         /* border: 1px solid red; */
@@ -2083,7 +2085,7 @@
     .parent-6 {
         /* border: 1px solid red; */
         width: 100%;
-        height: 150vh;
+        height: 160vh;
     }
     .next-trip {
         /* border: 1px solid blue; */
